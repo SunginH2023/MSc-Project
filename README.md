@@ -1,1 +1,6 @@
 # MSc-Project
+
+Abstract
+
+In recent years, there have been technological advancements in healthcare led by machine learning and deep learning. One promising application is in video-based automated assessment, which can offer an alternative to traditional evaluation which is time-consuming and is highly dependent on the clinician's experience. 
+This study aims to develop a video-based automatic assessment model for dyskinetic cerebral palsy(CP). The dataset used in this project comprises  body part coordinates extracted from 34 children with dyskinetic cerebral palsy. To build a robust and secure assessment model, various algorithms were employed, including Graph Convolutional Networks (GCN), Convolutional Neural Networks (CNN), Temporal Convolutional Networks (TCNs), Long Short-Term Memory (LSTM) networks, and Attention mechanisms. Among these, a model based on channel attention mechanism achieved the highest accuracy of 62\%. Although the result is not sufficient to fully replace traditional methods with automated assessment systems, the project proposes several approaches that could be explored further to enhance performance in future work. In particular, our approach demonstrates superior performance compared to published work on the same dataset, highlighting the potential for improvement.
